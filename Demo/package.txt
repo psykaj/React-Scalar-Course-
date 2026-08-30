@@ -1,0 +1,4 @@
+1. Npm is node package manager that is used to manage JavaScript packages and dependencies. The provided `package.json` file is a configuration file for a Node.js project. It contains metadata about the project, such as its name, version, description, license, author, and main entry point. It also includes scripts that can be run using npm commands. In this case, there is a test script that outputs an error message indicating that no tests are specified.
+
+2. 2 ways to create a react app -> CRA (create react app) , VITE  
+
